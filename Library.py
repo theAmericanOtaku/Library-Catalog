@@ -1,6 +1,5 @@
 # library.py
 # Programmer: Cole Watson
-# Class: CSCI1301-D4, Fall 2024
 # Program purpose: A program to manage a library's book catalog and checkout process for patrons.
 
 # ================================================================
